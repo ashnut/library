@@ -1,4 +1,4 @@
-# library
+# Library
  
  A web application created for three types of users.
  1. Customers: Can view and search a book, reserve a book and borrow a book. A fine is calculated if it is not returned within the due date. 
